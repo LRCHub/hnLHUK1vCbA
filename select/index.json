@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "「君と僕の歌」",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-19T18:31:07.829074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「君と僕の歌」",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_「君と僕の歌」_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「君と僕の歌」",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/02_「君と僕の歌」_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「君と僕の歌」",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_「君と僕の歌」_≠ME.txt"
+    }
+  ]
+}
